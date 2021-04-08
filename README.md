@@ -45,7 +45,7 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
 
    ```bash
     # Clone este repositório
-    $ git clone https://github.com/monitoria-C214/github-search-template.git
+    $ git clone https://github.com/CaioHpSouza/Unit_Mock_Test.js/
 
     # Acesse a pasta do projeto no seu terminal/cmd
     $ cd github-search-template
@@ -65,7 +65,7 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
 
 <table>
   <tr>   
-    <td align="center"><a href="https://github.com/vanessaSwerts/"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/57146734?v=4" width="100px;" alt=""/><br /><sub><b>Vanessa Swerts</b></sub></a></td>  
+    <td align="center"><a href="https://github.com/CaioHpSouza/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/21149887?v=4;" alt=""/><br /><sub><b>Vanessa Swerts</b></sub></a></td>  
   </tr>
 </table>
 
