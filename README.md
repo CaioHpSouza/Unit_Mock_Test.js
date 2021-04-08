@@ -61,11 +61,11 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
 
 ---
 
-## 🦸 Autora
+## 🦸 Autor
 
 <table>
   <tr>   
-    <td align="center"><a href="https://github.com/CaioHpSouza/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/21149887?v=4;" alt=""/><br /><sub><b>Vanessa Swerts</b></sub></a></td>  
+    <td align="center"><a href="https://github.com/CaioHpSouza/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/21149887?v=4;" alt="100"/><br /><sub><b>CaioHpSouza</b></sub></a></td>  
   </tr>
 </table>
 
