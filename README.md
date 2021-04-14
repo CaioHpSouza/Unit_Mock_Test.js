@@ -48,7 +48,7 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
     $ git clone https://github.com/CaioHpSouza/Unit_Mock_Test.js/
 
     # Acesse a pasta do projeto no seu terminal/cmd
-    $ cd github-search-template
+    $ cd Unit_Mock_Test.js
 
     # Instale as dependências
     $ yarn install
