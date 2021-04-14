@@ -64,9 +64,9 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
 ## 🦸 Autor
 
 <table>
-  <tr>   
-    <td align="center"><a href="https://github.com/CaioHpSouza/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/21149887?v=4;" alt="100"/><br /><sub><b>CaioHpSouza</b></sub></a></td>  
-  </tr>
+  <th> 
+    <td align="center"><a href="https://github.com/CaioHpSouza/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/21149887?v=4" width="100px;" alt=""/><br /><sub><b>Caio Souza</b></sub></a></td>  
+  </th>
 </table>
 
 ---
