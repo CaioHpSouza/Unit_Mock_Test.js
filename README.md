@@ -59,7 +59,15 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
     # O servidor inciará na porta:3000 - acesse http://localhost:3000 .
    ```
 
+
+
+
 ---
+<table>
+  <th> 
+    <td align="center"><a href="https://github.com/CaioHpSouza/"><img style="border-radius: 50%;" src="https://i.imgur.com/pR0tmgt.png;" alt=""/><br /><sub><b>Caio Souza</b></sub></a></td>  
+  </th>
+</table>
 
 ## 🦸 Autor
 
